@@ -25,7 +25,6 @@
 
 I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a mission to build smart, scalable, and impactful applications. As a fresher stepping boldly into the tech world, I bring curiosity, consistency, and a creator's mindset to everything I build.
 
-Beyond code, I'm also a **content creator** — sharing insights on **YouTube**, writing on **Medium**, and documenting my journey on **Instagram** to inspire the next generation of AI builders.
 
 ### ⚡ Fun Facts About Me
 
@@ -72,14 +71,7 @@ Beyond code, I'm also a **content creator** — sharing insights on **YouTube**,
 ## 🌐 Find Me Online
 
 <p align="left">
-  <a href="https://www.youtube.com/@karthikeya187" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@karthikeyavarma" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  &nbsp;
+  
   <a href="https://www.instagram.com/karthikeya___187/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -96,14 +88,14 @@ Beyond code, I'm also a **content creator** — sharing insights on **YouTube**,
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeya-varma-atmakuru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikeya-187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-varma-atmakuru&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-187&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-varma-atmakuru&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-187&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -112,7 +104,7 @@ Beyond code, I'm also a **content creator** — sharing insights on **YouTube**,
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikeya-varma-atmakuru&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikeya-187&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -121,7 +113,7 @@ Beyond code, I'm also a **content creator** — sharing insights on **YouTube**,
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeya-varma-atmakuru&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeya-187&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -143,14 +135,7 @@ Beyond code, I'm also a **content creator** — sharing insights on **YouTube**,
   <a href="https://www.instagram.com/karthikeya___187/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://medium.com/@karthikeyavarma" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@karthikeya187" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
+  
 
   <br/><br/>
 
