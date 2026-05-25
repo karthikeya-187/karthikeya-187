@@ -13,7 +13,7 @@
   </a>
 
   <br/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU0MXI2cGRlbHB4NDR5M2JscnJudHdzN2ZyZTR3aGk2MjJsMW5kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU0MXI2cGRlbHB4NDR5M2JscnJudHdzN2ZyZTR3aGk2MjJsMW5kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
 
 ---
