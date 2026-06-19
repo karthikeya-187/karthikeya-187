@@ -2,7 +2,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=karthikeya-varma-atmakuru&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave"/>
