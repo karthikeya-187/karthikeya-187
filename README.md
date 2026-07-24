@@ -108,7 +108,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 
 
 ## 📊 GitHub Stats
-
+<!--
 <div align="center">
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthikeya-187&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -116,9 +116,9 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthikeya-187&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
+-->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=karthikeya-187&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikeya-187&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 ---
