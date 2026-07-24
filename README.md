@@ -125,7 +125,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 
 
 <div align="center">
-<!-- 
+ 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikeya-187&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-187&theme=radical&hide_border=true" />
@@ -142,6 +142,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 
 <!-- SECTION F: GITHUB TROPHIES -->
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -149,7 +150,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 </div>
 
 ---
-
+-->
 
 
 <!-- SECTION H: FOOTER / LET'S CONNECT -->
