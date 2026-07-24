@@ -116,9 +116,24 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthikeya-187&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
--->
+--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karthikeya-187&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+-->
+
+
+<div align="center">
+<!-- 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikeya-187&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-187&theme=radical&hide_border=true" />
+<!--
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-187&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+-->
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeya-187&theme=react-dark&hide_border=true&area=true" />
+
 </div>
 
 ---
@@ -130,7 +145,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikeya-187&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikeya-187&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 ---
