@@ -111,9 +111,9 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeya-187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthikeya-187&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeya-187&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthikeya-187&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
