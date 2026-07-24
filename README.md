@@ -101,7 +101,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 
 ---
 
-<!-- SECTION E: GITHUB STATS --
+<!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,12 +116,12 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-187&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
--->
+--
 
 
 
 <!-- SECTION F: GITHUB TROPHIES -->
-<!--
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -130,7 +130,7 @@ I'm a passionate **AI/ML Developer** and **Generative AI Enthusiast** on a missi
 
 ---
 
--->
+
 
 <!-- SECTION H: FOOTER / LET'S CONNECT -->
 ## 🤝 Let's Connect!
